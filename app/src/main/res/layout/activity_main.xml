@@ -20,7 +20,7 @@
             android:layout_alignBottom="@+id/FirstName_et"
             android:layout_alignLeft="@+id/FirstName_et"
             android:layout_alignStart="@+id/LastName_tv"
-            android:text="First Name"
+            android:text="Bla Name"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintLeft_toLeftOf="parent"
             app:layout_constraintRight_toRightOf="parent"
