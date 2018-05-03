@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "967455200428",
+    "firebase_url": "https://ebellesalon.firebaseio.com",
+    "project_id": "ebellesalon",
+    "storage_bucket": "ebellesalon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967455200428:android:54a6251c99f53325",
+        "android_client_info": {
+          "package_name": "com.example.eodhuno.ebellesalon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967455200428-gfnahibblab1q7biofl2jisuqvdhk38s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eodhuno.ebellesalon",
+            "certificate_hash": "93ba6f1f9859647967d96a3da8c7552dd5c24fbd"
+          }
+        },
+        {
+          "client_id": "967455200428-ulugbpd892br01lab3hs98a1ckd9nadf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMvEh3Ck4_K2gdUs3hRxmqM3762-wWRgs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967455200428-ulugbpd892br01lab3hs98a1ckd9nadf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

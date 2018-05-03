@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">eBelle Salon</string>
+    <string-array name="spinnerItems">
+        <item>Fname</item>
+        <item>Lname</item>
+        <item>PhoneNo</item>
+        <item>Email</item>
+    </string-array>
 </resources>
